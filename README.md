@@ -37,7 +37,7 @@ Ad hoc requests SQL Queries
 Key Insights
 * The customer 'Atliq Exclusive' operates in 3 regions - APAC, EU, NA. In APAC region it operates its business in - Australia, Bangladesh, India, Indonesia, Japan, New Zealand, Philippines and South Korea.
   
-*89 unique products were added in 2021. As a result, the percentage of unique product increase in 2021 vs. 2020 is 36.33%.
+* 89 unique products were added in 2021. As a result, the percentage of unique product increase in 2021 vs. 2020 is 36.33%.
 
 *The products are divided into 6 segments - Notebook, Accessories, Peripherals, Desktop, Storage and Networking.
 
